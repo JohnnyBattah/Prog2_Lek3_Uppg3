@@ -29,6 +29,6 @@ public class Rektor extends skolPersoner {
     // toString
     @Override
     public String toString(){
-        return "Retor - " + super.toString() + ", Arbetsrum: " + arbetsrum ".";
+        return "Retor - " + super.toString() + ", Arbetsrum: " + arbetsrum + ".";
     }
 }
